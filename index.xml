@@ -2,11 +2,11 @@
 <level>
   <owner>Fistachka</owner>
   <repo>vyuga</repo>
-  <version>v1.0.0</version>
-  <next number="1" owner="Fistachka" repo="vyuga"/>
+  <version>v1.0.1</version>
+  <next number="1" owner="Fistachka" repo="vyuga2"/>
   <readme>
-    <ru>537d4859d6605bb2b7997fcbf10cb8bf9085d19734c8098f51917f8180fd7b7c</ru>
-    <en>e9371f080259d314b451b46bd7cfe3af13a2a0cffa93a915966e6f20ebdf6797</en>
+    <ru>be7da52416a6a217e8d0001782aed49045b72ba6628068a64728abbde99aba40</ru>
+    <en>33a6c22cbee773eb9215532df91b08250ae4579f0e5ba57cde772b034a28503b</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
