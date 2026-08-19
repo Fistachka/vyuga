@@ -1,43 +1,34 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-«Песня Шапокляк» («Кто людям помогает...)  из м/ф "Чебурашка и Крокодил Гена" 1974 г.  2 часть
-![4](https://github.com/user-attachments/assets/c6a934c8-168f-481f-86e5-636c1fc9cf4c)
+"Звенит январская вьюга" ("С любовью встретиться") 1972г. 1 часть
+![2](https://github.com/user-attachments/assets/3ccdeb2b-3122-4125-8fe1-5802d248bb84)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/s-CUyFQMuMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Кто людям помогает –
-лишь тратит время зря, ха-ха,
-Хорошими делами
-Прославиться нельзя,
-Прославиться нельзя,
-Прославиться нельзя!
+С любовью встретиться - проблема трудная
+Планета вертится, круглая, круглая
+Летит планета вдаль сквозь суматоху дней
+Нелегко, нелегко полюбить на ней
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/34b4f964-103b-4b80-bfaf-d27cb583e22e =200x200)
-stolbitsa.com/fistachka/shapoklyak<br><br>
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/02d45244-ea1c-42a3-a2f6-585e91f23201 =200x200)
+stolbitsa.com/fistachka/shapoklyak2<br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-"Shapoklyak's Song" ("Who helps people...") from the animated film "Cheburashka and Crocodile Gena" (1974) 2 st verse
-![4](https://github.com/user-attachments/assets/c6a934c8-168f-481f-86e5-636c1fc9cf4c)
+“The January Blizzard Sings” “Meeting Love”) 1972 1 st verse
+![2](https://github.com/user-attachments/assets/3ccdeb2b-3122-4125-8fe1-5802d248bb84)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/oxQ-J7aqKwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
-Kto lyudyam pomogaet –
-lish' tratit vremya zrya, ha-ha,
-Horoshimi delami
-Proslavit'sya nel'zya,
-Proslavit'sya nel'zya,
-Proslavit'sya nel'zya!
+S lyubov'yu vstretit'sya - problema trudnaya
+Planeta vertitsya, kruglaya, kruglaya
+Letit planeta vdal' skvoz' sumatohu dnej
+Nelegko, nelegko polyubit' na nej
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/34b4f964-103b-4b80-bfaf-d27cb583e22e =200x200)
-stolbitsa.com/fistachka/shapoklyak<br><br>
-
-
-![2](https://github.com/user-attachments/assets/3ccdeb2b-3122-4125-8fe1-5802d248bb84)
-![1](https://github.com/user-attachments/assets/aa34681e-ed82-41cc-a82f-75e0a3b46cb9)
-
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/02d45244-ea1c-42a3-a2f6-585e91f23201 =200x200)
+stolbitsa.com/fistachka/shapoklyak2<br><br>
 
