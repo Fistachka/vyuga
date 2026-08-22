@@ -32,3 +32,4 @@ Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/02d45244-ea1c-42a3-a2f6-585e91f23201 =200x200)
 stolbitsa.com/fistachka/shapoklyak2<br><br>
 
+![1](https://github.com/user-attachments/assets/521231b7-8d6c-4853-b028-3df7a279c0f4)
