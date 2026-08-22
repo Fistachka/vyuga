@@ -1,7 +1,7 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 "Звенит январская вьюга" ("С любовью встретиться") 1972г. 1 часть
-![2](https://github.com/user-attachments/assets/3ccdeb2b-3122-4125-8fe1-5802d248bb84)
+
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/s-CUyFQMuMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -18,7 +18,7 @@ stolbitsa.com/fistachka/shapoklyak2<br><br>
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
 “The January Blizzard Sings” “Meeting Love”) 1972 1 st verse
-![2](https://github.com/user-attachments/assets/3ccdeb2b-3122-4125-8fe1-5802d248bb84)
+
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/oxQ-J7aqKwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
@@ -31,4 +31,9 @@ Nelegko, nelegko polyubit' na nej
 Previous lesson:
 ![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/02d45244-ea1c-42a3-a2f6-585e91f23201 =200x200)
 stolbitsa.com/fistachka/shapoklyak2<br><br>
+
+
+![2](https://github.com/user-attachments/assets/869fbf1f-8fc7-4cd5-8fc6-4a69a334f297)
+![1](https://github.com/user-attachments/assets/32dafe01-102b-4a18-b805-b45023d5fc57)
+
 
