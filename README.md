@@ -3,7 +3,7 @@
 "Звенит январская вьюга" ("С любовью встретиться") 1972г. 1 часть
 ![2](https://github.com/user-attachments/assets/869fbf1f-8fc7-4cd5-8fc6-4a69a334f297)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/s-CUyFQMuMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/bSHzwKSE3dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-VcRbvg6HaE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 С любовью встретиться - проблема трудная
@@ -20,7 +20,7 @@ stolbitsa.com/fistachka/shapoklyak2<br><br>
 “The January Blizzard Sings” “Meeting Love”) 1972 1 st verse
 ![2](https://github.com/user-attachments/assets/869fbf1f-8fc7-4cd5-8fc6-4a69a334f297)
 
-<iframe width="315" height="560" src="https://www.youtube.com/embed/oxQ-J7aqKwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="315" height="560" src="https://www.youtube.com/embed/O53gtbMeXZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RQta7Mc7l_Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 S lyubov'yu vstretit'sya - problema trudnaya
