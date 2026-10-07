@@ -4,7 +4,7 @@
 ![2](https://github.com/user-attachments/assets/869fbf1f-8fc7-4cd5-8fc6-4a69a334f297)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/bSHzwKSE3dA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V5uToO2VT3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cerpvMxuH7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 С любовью встретиться - проблема трудная
 Планета вертится, круглая, круглая
@@ -21,7 +21,7 @@ stolbitsa.com/fistachka/shapoklyak2<br><br>
 ![2](https://github.com/user-attachments/assets/869fbf1f-8fc7-4cd5-8fc6-4a69a334f297)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/O53gtbMeXZI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_noYbzlRpBc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2YMQ5F6rmz0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
 S lyubov'yu vstretit'sya - problema trudnaya
 Planeta vertitsya, kruglaya, kruglaya
